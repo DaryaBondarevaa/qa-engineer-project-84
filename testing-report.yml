@@ -1,56 +1,56 @@
 - summary: |
 Проверка добавления товара во вкладку "Cart" (корзина)
-- status: 
+  status: 
 pass
 
 - summary: | 
 Проверка изменения английского языка магазина на русский
-- status:
+  status:
 pass
 
 - summary: | 
 Проверка перехода из вкладки "Cart" (корзина) на главную страницу магазина
-- status:
+  status:
 pass
 
 - summary: | 
 Проверка работы функции "Очистить корзину"
-- status:
+  status:
 pass
 
 - summary: |
 Проверка перехода по страницам каталога
-- status:
+  status:
 pass
 
 - summary: | 
 Проверка поиска товаров по бренду
-- status:
+  status:
 pass
 
 - summary: | 
 Проверка отображения всех товаров каталога
-- status:
+  status:
 fail
 
 - summary: |
 Проверка фильтрации товара по цене
-- status:
+  status:
 pass
 
 - summary: |
 Проверка поиска по ключевому слову
-- status:
+  status:
 pass
 
 - summary: |
 Проверка оформления заказа
-- status:
+  status:
 pass
 
 - summary: | 
 Проверка суммирования стоимости заказа
-- status:
+  status:
 pass
 
 - summary: | 
